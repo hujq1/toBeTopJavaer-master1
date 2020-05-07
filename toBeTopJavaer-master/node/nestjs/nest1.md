@@ -7,5 +7,5 @@ https://exlley.gitbooks.io/nest-js/content/gong-xiang-mo-kuai.html
 安装数据库swagger-ui等命令
 2 npm i nestjs-typegoose @typegoose/typegoose mongoose @types/mongoose nestjs-mongoose-crud @nestjs/swagger swagger-ui-express
 第一个Api实例
-3  https://blog.csdn.net/starzhou/article/details/105155842
+3  https://blog.csdn.net/starzhou/article/details/105155842105155842
 
